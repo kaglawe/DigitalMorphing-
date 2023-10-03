@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="morpheus.xsl"?>
+<arks_morpheus_layout xmlns:arks_morpheus_layout="http://www.morpheussoftware.net/">
+	<options>
+		<version value="3.1"/>
+		<size width="320" height="240"/>
+		<fps value="8"/>
+		<control loop="1" waitload="0"/>
+	</options>
+	<morphs>
+		<morph pic1="363340425_ecadc11050.jpg" pic2="363340485_4e263f37b3.jpg">
+			<options>
+				<frames morph="15" pic1="1" pic2="1"/>
+				<smooth value="1"/>
+				<background color="#ffffff"/>
+				<drawdots scheme="8colors" color="#000000" opacity="255" style="square" size="5" inpics="1"/>
+				<drawlines scheme="solid" color="#00ff00" opacity="255" size="1" inpics="1"/>
+				<drawtris scheme="solid" color="#0000ff" opacity="255" size="1" inpics="0"/>
+			</options>
+		</morph>
+	</morphs>
+</arks_morpheus_layout>

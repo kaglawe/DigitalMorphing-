@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/DigitalMorphing.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="nbproject/lib/jai_codec.jar"/>
+	<classpathentry kind="lib" path="nbproject/lib/jai_core.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

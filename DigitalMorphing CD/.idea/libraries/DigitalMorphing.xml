@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DigitalMorphing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DigitalMorphing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
